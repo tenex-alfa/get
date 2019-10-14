@@ -1,0 +1,11 @@
+template:
+  out: String
+  object: {}
+
+mock:
+  args:
+    - out: my>sample>object
+      object:
+        my:
+          sample:
+            object: hello world
